@@ -23,6 +23,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 ## Program:
 ### Gram-Schmidt Method
+
+```
 ''' 
 Program to QR decomposition using the Gram-Schmidt method
 Developed by: POOJA SHREE K
@@ -54,26 +56,20 @@ a = np.array(eval(input()))
 QR_Decomposition(a)
 ```
 
-
-
-
-
-
-
-```
-
 ## Output
-```
-<img width="922" height="852" alt="Screenshot 2026-11-10 162550" src="https://github.com/user-attachments/assets/44a25fe5-c1a5-40ec-ad76-c2ebc0bf1911" />
 
-<img width="1195" height="657" alt="Screenshot 2026-11-10 162613" src="https://github.com/user-attachments/assets/7b3b8d48-7055-40e1-b410-3bad928392db" />
+<img width="855" height="842" alt="Screenshot 2026-11-11 151534" src="https://github.com/user-attachments/assets/7918f843-fc5b-4be6-8409-f562134cda18" />
 
-<img width="1207" height="291" alt="Screenshot 2026-11-10 162624" src="https://github.com/user-attachments/assets/aad9fb65-f624-4147-b63e-6f79b6172005" />
-```
+<img width="630" height="342" alt="Screenshot 2026-11-11 151551" src="https://github.com/user-attachments/assets/ff4618fa-5dea-47bd-837d-efaaa55618cf" />
 
 
+<img width="1222" height="510" alt="Screenshot 2026-11-11 151601" src="https://github.com/user-attachments/assets/734d094a-af3e-4a89-b5ee-6cbd327d0c3c" />
 
-```
+
+
+
+
+
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
